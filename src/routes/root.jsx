@@ -21,7 +21,10 @@ export default function Root() {
   return (
     <>
       <div id="sidebar">
-        <h1>React Router Contacts</h1>
+        <h1> 
+          <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/contact-management-3240513-2700931.png" alt="contact" />
+          Contact Management App
+        </h1>
         <div>
           <Form id="search-form" role="search">
             <input

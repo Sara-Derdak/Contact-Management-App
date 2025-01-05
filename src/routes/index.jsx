@@ -1,9 +1,7 @@
-import defaultImage from './defaut.png';
-
 export default function Index() {
     return (
-      <p>
-        <img src={defaultImage} alt="Default" width="660px" /> <br />
+      <p >
+        <img src="https://outfunnel.com/wp-content/uploads/2021/12/contact-management.png" alt="Default" width="800px" /> <br />
       </p>
     );
 }
